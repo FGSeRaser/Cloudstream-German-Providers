@@ -54,7 +54,7 @@ In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 z
 | **FilmPalast** | Filme / Serien | 🟢 Aktiv | API & Parsing stabil |
 | **FlixiTV** | Live TV / VOD | 🟢 Aktiv | - |
 | **HDFilme** | Filme | 🟡 In Arbeit | Domain / Parser wird geprüft |
-| **HuhuTo (inkl. Live)** | VOD & Live TV | 🟢 Aktiv / Repariert | Auf aktuelles Vavoo-Backend migriert |
+| **HuhuTo (inkl. Live)** | VOD & Live TV | 🟡 In Arbeit | - |
 | **IptvOrg** | Live TV | 🟢 Aktiv | Freie IPTV-Streams |
 | **KellerKino** | Filme | 🟢 Aktiv | - |
 | **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
