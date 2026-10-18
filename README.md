@@ -32,4 +32,4 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 
 **URL zum Kopieren:**
 ```text
-[https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
+(https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
