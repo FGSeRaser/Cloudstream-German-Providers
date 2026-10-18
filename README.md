@@ -33,3 +33,39 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 **URL zum Kopieren:**
 ```text
 (https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
+## 📊 Status der Provider & Extensions
+
+In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 zentral verwaltet und gepflegt:
+
+| Provider | Typ | Status | Beschreibung / Anmerkungen |
+| :--- | :--- | :---: | :--- |
+| **AniWorld** | Anime / Serien | 🟢 Aktiv | Läuft stabil |
+| **ARD** | Mediathek / Live TV | 🟢 Aktiv | Öffentlich-rechtlich |
+| **Arte** | Mediathek / Live TV | 🟢 Aktiv | Öffentlich-rechtlich |
+| **C3TV** | Vorträge / Media | 🟢 Aktiv | Chaos Computer Club Media |
+| **Discovery** | Dokus / TV | 🟢 Aktiv | - |
+| **EinschaltenIn** | Filme / Serien | 🟢 Aktiv | - |
+| **FilmFrei24** | Filme | 🟢 Aktiv | - |
+| **Filmo** | Filme / Serien | 🟢 Aktiv | - |
+| **FilmPalast** | Filme / Serien | 🟢 Aktiv | API & Parsing stabil |
+| **FlixiTV** | Live TV / VOD | 🟢 Aktiv | - |
+| **HDFilme** | Filme | 🟡 In Arbeit | Domain / Parser wird geprüft |
+| **HuhuTo (inkl. Live)** | VOD & Live TV | 🟢 Aktiv / Repariert | Auf aktuelles Vavoo-Backend migriert |
+| **IptvOrg** | Live TV | 🟢 Aktiv | Freie IPTV-Streams |
+| **KellerKino** | Filme | 🟢 Aktiv | - |
+| **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
+| **KinoKing** | Filme / Serien | 🟡 In Arbeit | API-Anpassung |
+| **Megakino** | Filme / Serien | 🟢 Aktiv | - |
+| **Moflix** | Filme / Serien | 🟢 Aktiv | - |
+| **Netzkino** | Legale Filme | 🟢 Aktiv | Kostenfrei & legal |
+| **PlutoTV** | Live TV / VOD | 🟢 Aktiv | Offizielle Streams |
+| **Serienstream** | Serien | 🟢 Aktiv | S.to Provider |
+| **Southpark** | Animation / Serien | 🟢 Aktiv | Offizieller Stream-Fetch |
+| **SpiegelTV** | Reportagen / Dokus | 🟢 Aktiv | - |
+| **Welt** | Nachrichten / Dokus | 🟢 Aktiv | Live & Mediathek |
+| **Xcine** | Filme / Serien | 🟢 Aktiv | - |
+
+> **Legende:**  
+> 🟢 `Aktiv` = Funktioniert / Integration gepflegt  
+> 🟡 `In Arbeit` = Wird aktuell überprüft oder geflickt  
+> 🔴 `Offline` = Vorübergehend oder dauerhaft abgeschaltet
