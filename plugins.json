@@ -66,7 +66,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://burningseries.ac&sz=%size%",
-        "fileHash": "sha256-86e2868357c108d6eacdc0e72f72c06cc05221ab426e9a9f05dc736670fe02d4",
+        "fileHash": "sha256-fa86df29dce8a6da0642f965d6b132804d7a8f5da57821cc62143f43f932222b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
         "fileSize": 9919,
@@ -76,10 +76,9 @@
             "FGSeRaser"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "TvSeries"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "bs",
         "description": "Enth\u00e4lt: Burning Series",
         "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/bs.cs3",
