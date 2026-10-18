@@ -3,6 +3,6 @@
   "description": "German providers",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/plugins.json"
+    "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json"
   ]
 }
