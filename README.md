@@ -60,6 +60,7 @@ https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/refs/he
 | **KinoKiste** | Filme / Serien | 🟡 In Arbeit |
 | **Megakino** | Filme / Serien | 🟢 Aktiv |
 | **Moflix** | Filme / Serien | 🟡 In Arbeit |
+| **Movie4k** | Filme / Serien | 🟡 In Arbeit |
 | **Netzkino** | Legale Filme | 🟢 Aktiv |
 | **PlutoTV** | Live TV / VOD | 🟢 Aktiv |
 | **Serienstream** | Serien | 🟢 Aktiv |
