@@ -39,36 +39,34 @@ https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/refs/he
 
 ## 📊 Status der Provider & Extensions
 
-In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 zentral verwaltet und gepflegt:
-
-| Provider | Typ | Status | Beschreibung / Anmerkungen |
-| :--- | :--- | :---: | :--- |
-| **AniWorld** | Anime / Serien | 🟢 Aktiv | Läuft stabil |
-| **ARD** | Mediathek / Live TV | 🟢 Aktiv | Öffentlich-rechtlich |
-| **Arte** | Mediathek / Live TV | 🟢 Aktiv | Öffentlich-rechtlich |
-| **C3TV** | Vorträge / Media | 🟢 Aktiv | Chaos Computer Club Media |
-| **Discovery** | Dokus / TV | 🟢 Aktiv | - |
-| **EinschaltenIn** | Filme / Serien | 🟢 Aktiv | - |
-| **FilmFrei24** | Filme | 🟢 Aktiv | - |
-| **Filmo** | Filme / Serien | 🟢 Aktiv | - |
-| **FilmPalast** | Filme / Serien | 🟢 Aktiv | API & Parsing stabil |
-| **FlixiTV** | Live TV / VOD | 🟢 Aktiv | - |
-| **HDFilme** | Filme | 🟡 In Arbeit | Domain / Parser wird geprüft |
-| **HuhuTo (inkl. Live)** | VOD & Live TV | 🟡 In Arbeit | - |
-| **IptvOrg** | Live TV | 🟢 Aktiv | Freie IPTV-Streams |
-| **KellerKino** | Filme | 🟢 Aktiv | - |
-| **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
-| **KinoKing** | Filme / Serien | 🟡 In Arbeit | API-Anpassung |
-| **KinoKiste** | Filme / Serien | 🟡 In Arbeit | - |
-| **Megakino** | Filme / Serien | 🟢 Aktiv | - |
-| **Moflix** | Filme / Serien | 🟡 In Arbeit | - |
-| **Netzkino** | Legale Filme | 🟢 Aktiv | Kostenfrei & legal |
-| **PlutoTV** | Live TV / VOD | 🟢 Aktiv | Offizielle Streams |
-| **Serienstream** | Serien | 🟢 Aktiv | S.to Provider |
-| **Southpark** | Animation / Serien | 🟢 Aktiv | Offizieller Stream-Fetch |
-| **SpiegelTV** | Reportagen / Dokus | 🟢 Aktiv | - |
-| **Welt** | Nachrichten / Dokus | 🟢 Aktiv | Live & Mediathek |
-| **Xcine** | Filme / Serien | 🟢 Aktiv | - |
+| Provider | Typ | Status |
+| :--- | :--- | :---: |
+| **AniWorld** | Anime / Serien | 🟢 Aktiv |
+| **ARD** | Mediathek / Live TV | 🟢 Aktiv |
+| **Arte** | Mediathek / Live TV | 🟢 Aktiv |
+| **C3TV** | Vorträge / Media | 🟢 Aktiv |
+| **Discovery** | Dokus / TV | 🟢 Aktiv |
+| **EinschaltenIn** | Filme / Serien | 🟢 Aktiv |
+| **FilmFrei24** | Filme | 🟢 Aktiv |
+| **Filmo** | Filme | 🟢 Aktiv |
+| **FilmPalast** | Filme / Serien | 🟢 Aktiv |
+| **FlixiTV** | Live TV / VOD | 🟢 Aktiv |
+| **HDFilme** | Filme / Serien | 🟡 In Arbeit |
+| **HuhuTo** | VOD & Live TV | 🟡 In Arbeit |
+| **IptvOrg** | Live TV | 🟢 Aktiv |
+| **KellerKino** | Filme | 🟢 Aktiv |
+| **Kinoger** | Filme / Serien | 🟢 Aktiv |
+| **KinoKing** | Filme / Serien | 🟡 In Arbeit |
+| **KinoKiste** | Filme / Serien | 🟡 In Arbeit |
+| **Megakino** | Filme / Serien | 🟢 Aktiv |
+| **Moflix** | Filme / Serien | 🟡 In Arbeit |
+| **Netzkino** | Legale Filme | 🟢 Aktiv |
+| **PlutoTV** | Live TV / VOD | 🟢 Aktiv |
+| **Serienstream** | Serien | 🟢 Aktiv |
+| **Southpark** | Animation / Serien | 🟢 Aktiv |
+| **SpiegelTV** | Reportagen / Dokus | 🟢 Aktiv |
+| **Welt** | Nachrichten / Dokus | 🟢 Aktiv |
+| **Xcine** | Filme / Serien | 🟢 Aktiv |
 
 > **Legende:**  
 > 🟢 `Aktiv` = Funktioniert / Integration gepflegt  
