@@ -59,7 +59,7 @@ In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 z
 | **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
 | **KinoKing** | Filme / Serien | 🟡 In Arbeit | API-Anpassung |
 | **Megakino** | Filme / Serien | 🟢 Aktiv | - |
-| **Moflix** | Filme / Serien | 🟡 In Arbeit | - |
+| **Moflix** | Filme / Serien | 🟡 In Arbeit | API - Anpassung |
 | **Netzkino** | Legale Filme | 🟢 Aktiv | - |
 | **PlutoTV** | Live TV / VOD | 🟢 Aktiv | Offizielle Streams |
 | **Serienstream** | Serien | 🟢 Aktiv | S.to Provider |
