@@ -27,7 +27,7 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 2. Navigiere zu **Einstellungen** ➡️ **Extensions** ➡️ **Repository hinzufügen**.
 3. Kopiere die folgende URL oder öffne sie direkt im Browser:
 
-> 🔗 **Direktlink zur repo.json:**  
+> 🔗 **Direktlink zur .json:**  
 > [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/refs/heads/main/repo.json)
 
 **URL zum Kopieren:**
