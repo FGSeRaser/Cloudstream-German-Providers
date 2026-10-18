@@ -65,16 +65,23 @@
         "name": "Arte"
     },
     {
-        "fileHash": "sha256-316a4c42d816a70540c65b5d1cdb4a07e31212af4f50ab0f4a98443b8e46b730",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://burningseries.ac&sz=%size%",
+        "fileHash": "sha256-86e2868357c108d6eacdc0e72f72c06cc05221ab426e9a9f05dc736670fe02d4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
-        "fileSize": 9918,
-        "status": 3,
+        "fileSize": 9919,
+        "status": 1,
+        "language": "de",
         "authors": [
-            
+            "FGSeRaser"
         ],
-        "version": -1,
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 15,
         "internalName": "bs",
+        "description": "Enth\u00e4lt: Burning Series",
         "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/bs.cs3",
         "name": "bs"
     },
