@@ -15,7 +15,7 @@
 
 ## 💡 Danksagung & Hintergrund
 Dieses Projekt basiert ursprünglich auf dem großartigen Fundament der [GermanProviders von bnyro](https://github.com/bnyro/GermanProviders). 
-Da viele Provider im Laufe der Zeit veraltet sind oder aufgrund von Domain-Änderungen und Cloudflare-Sperren nicht mehr funktionierten, wurde dieses Repository von mir übernommen, modernisiert. Ein riesiges Dankeschön an bnyro für die initiale Basis!
+Da viele Provider im Laufe der Zeit veraltet sind oder aufgrund von Domain-Änderungen und Cloudflare-Sperren nicht mehr funktionierten, wurde dieses Repository von mir übernommen und modernisiert. Ein riesiges Dankeschön an bnyro für die initiale Basis!
 
 ---
 
@@ -28,11 +28,14 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 3. Kopiere die folgende URL oder öffne sie direkt im Browser:
 
 > 🔗 **Direktlink zur repo.json:**  
-> [repo.json im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
+> [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
 
 **URL zum Kopieren:**
-```text
-(https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
+
+https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json
+
+---
+
 ## 📊 Status der Provider & Extensions
 
 In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 zentral verwaltet und gepflegt:
@@ -56,7 +59,7 @@ In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 z
 | **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
 | **KinoKing** | Filme / Serien | 🟡 In Arbeit | API-Anpassung |
 | **Megakino** | Filme / Serien | 🟢 Aktiv | - |
-| **Moflix** | Filme / Serien | 🟢 Aktiv | - |
+| **Moflix** | Filme / Serien | 🟡 In Arbeit | - |
 | **Netzkino** | Legale Filme | 🟢 Aktiv | Kostenfrei & legal |
 | **PlutoTV** | Live TV / VOD | 🟢 Aktiv | Offizielle Streams |
 | **Serienstream** | Serien | 🟢 Aktiv | S.to Provider |
