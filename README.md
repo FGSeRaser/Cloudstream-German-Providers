@@ -28,10 +28,12 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 3. Kopiere die folgende URL oder öffne sie direkt im Browser:
 
 > 🔗 **Direktlink zur repo.json:**  
-> [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json)
+> [repo.json im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
 
 **URL zum Kopieren:**
-https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json
+
+https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json
+
 ---
 
 ## 📊 Status der Provider & Extensions
@@ -57,8 +59,8 @@ In diesem Repository werden alle deutschen Provider-Plugins für Cloudstream 3 z
 | **Kinoger** | Filme / Serien | 🟢 Aktiv | - |
 | **KinoKing** | Filme / Serien | 🟡 In Arbeit | API-Anpassung |
 | **Megakino** | Filme / Serien | 🟢 Aktiv | - |
-| **Moflix** | Filme / Serien | 🟡 In Arbeit | API - Anpassung |
-| **Netzkino** | Legale Filme | 🟢 Aktiv | - |
+| **Moflix** | Filme / Serien | 🟡 In Arbeit | - |
+| **Netzkino** | Legale Filme | 🟢 Aktiv | Kostenfrei & legal |
 | **PlutoTV** | Live TV / VOD | 🟢 Aktiv | Offizielle Streams |
 | **Serienstream** | Serien | 🟢 Aktiv | S.to Provider |
 | **Southpark** | Animation / Serien | 🟢 Aktiv | Offizieller Stream-Fetch |
