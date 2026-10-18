@@ -31,9 +31,7 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 > [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json)
 
 **URL zum Kopieren:**
-
-[https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json](https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/plugins.json")
-
+https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/plugins.json
 ---
 
 ## 📊 Status der Provider & Extensions
