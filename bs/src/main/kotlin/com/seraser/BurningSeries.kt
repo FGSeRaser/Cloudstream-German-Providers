@@ -4,7 +4,7 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 import org.jsoup.nodes.Document
 
-class BurningSeries : MainUrlPlugin() {
+class BurningSeries : MainAPI() {
     override var mainUrl = "https://burningseries.ac"
     override var name = "BurningSeries"
     override val supportedTypes = setOf(TvType.TvSeries)
@@ -13,21 +13,21 @@ class BurningSeries : MainUrlPlugin() {
     override val hasMainPage = true
 
     // 1. Startseite / Serien-Übersicht laden
-    override async fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
+    override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
         val doc = app.get("$mainUrl/serie-alphabet").document
-        val animeList = doc.select("#series ul li a").mapNotNull {
+        val seriesList = doc.select("#series ul li a").mapNotNull {
             val title = it.text()
             val href = fixUrl(it.attr("href"))
             newTvSeriesSearchResponse(title, href, TvType.TvSeries)
         }
         return newHomePageResponse(
-            listOf(HomePageList("Alle Serien (A-Z)", animeList)),
+            listOf(HomePageList("Alle Serien (A-Z)", seriesList)),
             hasNext = false
         )
     }
 
     // 2. Suche umsetzen
-    override async fun search(query: String): List<SearchResponse> {
+    override suspend fun search(query: String): List<SearchResponse> {
         val doc = app.get("$mainUrl/serie-alphabet").document
         return doc.select("#series ul li a").filter {
             it.text().contains(query, ignoreCase = true)
@@ -37,13 +37,12 @@ class BurningSeries : MainUrlPlugin() {
     }
 
     // 3. Serien-Details, Staffeln und Episoden auslesen
-    override async fun load(url: String): LoadResponse {
+    override suspend fun load(url: String): LoadResponse {
         val doc = app.get(url).document
         val title = doc.select("h2 span").text().ifEmpty { doc.select("#sp_left h2").text() }
         val poster = fixUrlNull(doc.select("#sp_right img").attr("src"))
         val description = doc.select("#sp_left p").text()
 
-        // Staffeln ermitteln
         val episodes = mutableListOf<Episode>()
         val seasonElements = doc.select("#sp_left ul.nav.nav-tabs li a")
 
@@ -52,7 +51,6 @@ class BurningSeries : MainUrlPlugin() {
             val seasonNum = seasonElem.text().toIntOrNull() ?: continue
             val seasonDoc = app.get(seasonUrl).document
 
-            // Episoden pro Staffel auslesen
             seasonDoc.select("#sp_left table.episodes tr").forEach { row ->
                 val epLink = row.select("td a").firstOrNull() ?: return@forEach
                 val epHref = fixUrl(epLink.attr("href"))
@@ -76,7 +74,7 @@ class BurningSeries : MainUrlPlugin() {
     }
 
     // 4. Streams / Hoster-Links extrahieren
-    override async fun loadLinks(
+    override suspend fun loadLinks(
         data: String,
         isCasting: Boolean,
         subtitleCallback: (SubtitleFile) -> Unit,
@@ -84,10 +82,8 @@ class BurningSeries : MainUrlPlugin() {
     ): Boolean {
         val doc = app.get(data).document
 
-        // Hoster-Links auf der Episodenseite auslesen
         doc.select("ul.hoster-tabs li a").forEach { hosterLink ->
             val redirectUrl = fixUrl(hosterLink.attr("href"))
-            // BS leitet oft über Zwischenseiten weiter
             val targetDoc = app.get(redirectUrl).document
             val finalUrl = targetDoc.select("a.watch-episode").attr("href")
 
