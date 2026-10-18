@@ -65,6 +65,20 @@
         "name": "Arte"
     },
     {
+        "fileHash": "sha256-316a4c42d816a70540c65b5d1cdb4a07e31212af4f50ab0f4a98443b8e46b730",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 9918,
+        "status": 3,
+        "authors": [
+            
+        ],
+        "version": -1,
+        "internalName": "bs",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/bs.cs3",
+        "name": "bs"
+    },
+    {
         "iconUrl": "https://media.ccc.de/favicon-96x96.png",
         "fileHash": "sha256-dbb5f6e08236280a0ea4a108b9fe4fb351380b710d958e5d5e22dd2bf294b3c6",
         "apiVersion": 1,
