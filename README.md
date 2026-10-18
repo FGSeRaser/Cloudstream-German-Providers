@@ -13,3 +13,5 @@ Füge einfach diesen Repository-Link in Cloudstream unter **Einstellungen -> Ext
 
 ```text
 [https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/repo.json](https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/repo.json)
+
+🚀 Status der ProviderProviderTypStatusAnmerkungenAniWorldAnime / Serien🟢 Funktionstüchtig-FilmPalastFilme / Serien🟢 Funktionstüchtig-PlutoTVLive TV / VOD🟢 Funktionstüchtig-SouthparkSerien🟢 Funktionstüchtig-Huhu & Huhu LiveVOD & Live TV🟢 RepariertAuf Vavoo-Backend aktualisiertKinoKingFilme / Serien🟡 In ArbeitDomain / Parser wird angepasstKinokisteFilme🟡 In ArbeitMirror-Domains werden aktualisiertHD FilmeFilme🟡 In ArbeitDomain-Patch ausstehendMovie4kFilme🟡 In ArbeitDomain-Patch ausstehend
