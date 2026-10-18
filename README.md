@@ -28,11 +28,11 @@ Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
 3. Kopiere die folgende URL oder öffne sie direkt im Browser:
 
 > 🔗 **Direktlink zur repo.json:**  
-> [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/repo.json)
+> [im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
 
 **URL zum Kopieren:**
 
-https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/repo.json
+https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json
 
 ---
 
