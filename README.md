@@ -1,17 +1,35 @@
-# 🇩🇪 GermanProviders for Cloudstream 3
+# 🇩🇪 Cloudstream German Providers
 
-Eine aktualisierte, von der Community gepflegte Sammlung deutscher Provider-Plugins für **Cloudstream 3**.
+<div align="center">
 
-> 💡 **Hinweis & Danksagung:**  
-> Dieses Projekt basiert ursprünglich auf der Arbeit von **bnyro** (`GermanProviders`). Ein riesiges Dankeschön geht an bnyro für die ursprüngliche Entwicklung und das Bereitstellen des Fundaments!  
+[![Cloudstream](https://img.shields.io/badge/Cloudstream-3-purple?style=flat-square)](https://github.com/recloudstream/cloudstream)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blue?style=flat-square&logo=kotlin)](https://kotlinlang.org)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+[![Maintained by FGSeRaser](https://img.shields.io/badge/Maintained%20by-FGSeRaser-orange?style=flat-square)](https://github.com/FGSeRaser)
+
+*Eine aktualisierte, reparierte und aktiv gepflegte Sammlung deutscher VOD- und Live-TV-Provider für Cloudstream 3.*
+
+</div>
 
 ---
 
-## 📦 Repository in Cloudstream 3 hinzufügen
+## 💡 Danksagung & Hintergrund
+Dieses Projekt basiert ursprünglich auf dem großartigen Fundament der [GermanProviders von bnyro](https://github.com/bnyro/GermanProviders). 
+Da viele Provider im Laufe der Zeit veraltet sind oder aufgrund von Domain-Änderungen und Cloudflare-Sperren nicht mehr funktionierten, wurde dieses Repository von mir übernommen, modernisiert. Ein riesiges Dankeschön an bnyro für die initiale Basis!
 
-Füge einfach diesen Repository-Link in Cloudstream unter **Einstellungen -> Extensions -> Repository hinzufügen** ein:
+---
 
+## 📦 Installation in Cloudstream 3
+
+Füge den Repository-Link direkt in deiner Cloudstream-App hinzu:
+
+1. Öffne Cloudstream 3.
+2. Navigiere zu **Einstellungen** ➡️ **Extensions** ➡️ **Repository hinzufügen**.
+3. Kopiere die folgende URL oder öffne sie direkt im Browser:
+
+> 🔗 **Direktlink zur repo.json:**  
+> [repo.json im Browser öffnen](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
+
+**URL zum Kopieren:**
 ```text
-[https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/repo.json](https://raw.githubusercontent.com/FGSeRaser/GermanProviders/builds/repo.json)
-
-🚀 Status der ProviderProviderTypStatusAnmerkungenAniWorldAnime / Serien🟢 Funktionstüchtig-FilmPalastFilme / Serien🟢 Funktionstüchtig-PlutoTVLive TV / VOD🟢 Funktionstüchtig-SouthparkSerien🟢 Funktionstüchtig-Huhu & Huhu LiveVOD & Live TV🟢 RepariertAuf Vavoo-Backend aktualisiertKinoKingFilme / Serien🟡 In ArbeitDomain / Parser wird angepasstKinokisteFilme🟡 In ArbeitMirror-Domains werden aktualisiertHD FilmeFilme🟡 In ArbeitDomain-Patch ausstehendMovie4kFilme🟡 In ArbeitDomain-Patch ausstehend
+[https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json](https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/repo.json)
