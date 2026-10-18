@@ -1,0 +1,523 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://aniworld.to.to&sz=%size%",
+        "fileHash": "sha256-aa8a1caa146bbf728011e7c6623339ba10a3a62ea6a3c0ea804fafce2772d4bc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 16064,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Hexated",
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovies"
+        ],
+        "version": 1,
+        "internalName": "Aniworld",
+        "description": "Animes online ansehen und streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Aniworld.cs3",
+        "name": "Aniworld"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://ardmediathek.de&sz=%size%",
+        "fileHash": "sha256-75c916de92d9bfdd67239bf2b259b3b86ac238ddb14bb47481023549722a08d0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 50898,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "ARD",
+        "description": "\u00d6ffentlich-rechtliche Rundfunkanstalten",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/ARD.cs3",
+        "name": "ARD"
+    },
+    {
+        "iconUrl": "https://static-cdn.arte.tv/replay/favicons/favicon-%size%x%size%.png",
+        "fileHash": "sha256-403c81843514e6b70090988ba9a1779ef0d299f84f20803d4700f69748982b6c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 35783,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Arte",
+        "description": "Viel mehr als TV",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Arte.cs3",
+        "name": "Arte"
+    },
+    {
+        "iconUrl": "https://media.ccc.de/favicon-96x96.png",
+        "fileHash": "sha256-dbb5f6e08236280a0ea4a108b9fe4fb351380b710d958e5d5e22dd2bf294b3c6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 17714,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "C3TV",
+        "description": "Vortr\u00e4ge von media.ccc.de",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/C3TV.cs3",
+        "name": "C3TV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dmax.de&sz=%size%",
+        "fileHash": "sha256-cc7c659ec03ef7107cce03cd29b422168b6b05d5ddb3a4a0220643820fb8ed96",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 30818,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Discovery",
+        "description": "Enth\u00e4lt: Dmax, Tele5, TLC",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Discovery.cs3",
+        "name": "Discovery"
+    },
+    {
+        "fileHash": "sha256-9ea006f1f56a0f85a56febd4a619a7b3b4f60318637ae98c4ed96252d46f6967",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 13612,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "EinschaltenIn",
+        "description": "Einschalten ^^",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/EinschaltenIn.cs3",
+        "name": "EinschaltenIn"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmfrei24.com&sz=%size%",
+        "fileHash": "sha256-b6a3bf8e59d47882f129487e848b981bcb182313afa4e3587c2ed37e7792a761",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 13968,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmFrei24",
+        "description": "Filme kostenlos online schauen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/FilmFrei24.cs3",
+        "name": "FilmFrei24"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmo.to&sz=%size%",
+        "fileHash": "sha256-f74a878c1fb9082e530127b896ddb84167229592783064635d082857ba73661d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 11901,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Filmo",
+        "description": "Filme entdecken",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Filmo.cs3",
+        "name": "Filmo"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmpalast.to&sz=%size%",
+        "fileHash": "sha256-8ae1e9ef1190004ab8fba981824a72253522468a17e384a27edb7445b12b9ecb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 12798,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "FilmPalast",
+        "description": "Filme & Serien sofort und kostenlos ansehen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/FilmPalast.cs3",
+        "name": "FilmPalast"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=flixitv-stream.eu&sz=%size%",
+        "fileHash": "sha256-da2f7a8746c5906fd71a8cc81127c52d8263dab02ea5438a7864e570e6942894",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 9885,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "FlixiTV",
+        "description": "Deine alten Sch\u00e4tze; Serien und Filme. Kostenlos auf Abruf und in Full HD.",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/FlixiTV.cs3",
+        "name": "FlixiTV"
+    },
+    {
+        "iconUrl": "https://hdfilme.my/templates/hdfilme/images/favicon-%size%x%size%.png",
+        "fileHash": "sha256-8b0b14dfb997802b57f10f1602bc3feaa2e1aaca3649653aa87699efb833bc64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 18049,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "HDFilme",
+        "description": "Filme und Serien online kostenlos ansehen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/HDFilme.cs3",
+        "name": "HDFilme"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=huhu.to&sz=%size%",
+        "fileHash": "sha256-f2bf1d23098e095e5d13901dc9c45c1c76a31393e72aa24756de5efb81e04925",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 24657,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HuhuTo",
+        "description": "Filme und Serien streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/HuhuTo.cs3",
+        "name": "HuhuTo"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/iptv-org?s=%size%",
+        "fileHash": "sha256-d9740bfd943b566120fb6f86fb6eb4cf58edcdc7b33cf36d7d3832ee1028d3c3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 22145,
+        "status": 1,
+        "authors": [
+            "Adippe",
+            "Phisher98",
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "IptvOrg",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/IptvOrg.cs3",
+        "name": "IptvOrg"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.kellerkino.com&sz=%size%",
+        "fileHash": "sha256-77b8117c248feb482919d55106607407a496cd4b1a6b496eb4bc33ba7494383d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 12081,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KellerKino",
+        "description": "Filme per Stream anschauen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/KellerKino.cs3",
+        "name": "KellerKino"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kinoger.com&sz=%size%",
+        "fileHash": "sha256-3e5d6d820273b75756e6aa1c7e050bcc40724bc8db9c907a9c786a9005b9abc5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 16174,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Hexated",
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "Kinoger",
+        "description": "Filme und Serien streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Kinoger.cs3",
+        "name": "Kinoger"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kinoking.cc&sz=%size%",
+        "fileHash": "sha256-e4f0c851b18350b2a63a08d8da4291ac90616dcfa0bff356fc679146d49ab7df",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 20295,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KinoKing",
+        "description": "Viele Filme und Serien von verschiedenen Hostern streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/KinoKing.cs3",
+        "name": "KinoKing"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://megakino4.to&sz=%size%",
+        "fileHash": "sha256-771ccae220516729aa7a4fb6539cac53adca50c717233dbb269eb26779a0f08b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 15140,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Phisher98",
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Documentary"
+        ],
+        "version": 6,
+        "internalName": "Megakino",
+        "description": "Kostenlos Filme und Serien auf Deutsch anschauen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Megakino.cs3",
+        "name": "Megakino"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=moflix-stream.xyz&sz=%size%",
+        "fileHash": "sha256-6929f8ac3ef417846e0ab1cf246968a5ff42cce90a0d1497bec7163a9ad74606",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 34420,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Hexated",
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Moflix",
+        "description": "Filme und Serien kostenlos streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Moflix.cs3",
+        "name": "Moflix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://netzkino.de&sz=%size%",
+        "fileHash": "sha256-850dcff73df54b726a100e2a3dc75c4770f29faf7b5ab3162b9f1720694c193e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 25254,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Netzkino",
+        "description": "Kostenlose Filme online sehen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Netzkino.cs3",
+        "name": "Netzkino"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://pluto.tv&sz=%size%",
+        "fileHash": "sha256-36fd2c7a3e5e4d680d8543cb5bfac5e5535bfeb29b614a26bfcaa46ec433d083",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 42098,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "PlutoTV",
+        "description": "Streamingportal von Paramount",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/PlutoTV.cs3",
+        "name": "PlutoTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://serienstream.to&sz=%size%",
+        "fileHash": "sha256-d2238d964e3265e5358ec660b6c0f740e4b2ecb049a15db5161c4a99fd136660",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 14050,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Series"
+        ],
+        "version": 5,
+        "internalName": "Serienstream",
+        "description": "Serien online ansehen und streamen",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Serienstream.cs3",
+        "name": "Serienstream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://southpark.de&sz=%size%",
+        "fileHash": "sha256-0eae265a4e961badccffdf9ed282622b097bfd80f760568d384a0f16dc3fdc62",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 30150,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Southpark",
+        "description": "Episoden von southpark.de",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Southpark.cs3",
+        "name": "Southpark"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.spiegel.de&sz=%size%",
+        "fileHash": "sha256-5a5b57bedcb7175d86830ad6a5efcefa7066ae99f75aeba4317d9e1b7eecc992",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 26500,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "SpiegelTV",
+        "description": "Reportagen und Dokumentation von SpiegelTV",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/SpiegelTV.cs3",
+        "name": "SpiegelTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.welt.de&sz=%size%",
+        "fileHash": "sha256-b46ae55a39e31435747d939f6eb0d5abbce9136162c71577c739721e681f6d63",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 21783,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 2,
+        "internalName": "Welt",
+        "description": "Videos von Welt (mit Vorsicht zu genie\u00dfen: geh\u00f6rt zum Axel Springer Verlag)",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Welt.cs3",
+        "name": "Welt"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://xcine.ru&sz=%size%",
+        "fileHash": "sha256-e63e99c09e587fadb24bf318f65a09924dae138a38da459bc6e9a5c4a12fecc8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
+        "fileSize": 26277,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Bnyro"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 15,
+        "internalName": "Xcine",
+        "description": "Enth\u00e4lt: Xcine, Movie4k, Streamcloud, Kinokiste",
+        "url": "https://raw.githubusercontent.com/FGSeRaser/Cloudstream-German-Providers/builds/Xcine.cs3",
+        "name": "Xcine"
+    }
+]
