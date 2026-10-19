@@ -7,7 +7,6 @@ import android.content.Context
 @CloudstreamPlugin
 class BurningSeriesPlugin : Plugin() {
     override fun load(context: Context) {
-        // Registriert den Provider beim Laden des Plugins
         registerMainAPI(BurningSeries())
     }
 }
