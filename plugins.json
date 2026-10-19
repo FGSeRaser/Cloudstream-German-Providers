@@ -66,10 +66,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://burningseries.ac&sz=%size%",
-        "fileHash": "sha256-a6daa0764b57b69c638cd0a098d6b0105ff53d20177a4b68a14f73f4789fcedc",
+        "fileHash": "sha256-d2976f1208462713345f2fe30984e8cabe3c986b744ab510b734eb46476913bf",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/FGSeRaser/Cloudstream-German-Providers",
-        "fileSize": 12197,
+        "fileSize": 15977,
         "status": 1,
         "language": "de",
         "authors": [
